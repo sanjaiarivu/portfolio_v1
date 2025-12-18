@@ -41,4 +41,4 @@ I plan to continue updating the projects showcased on the website and exploring 
 
 ## 📧 Contact
 
-Visitors are encouraged to reach out via email (hugofolloni@gmail.com) for inquiries and to fork the repository and create their own portfolio website in a similar style.
+Visitors are encouraged to reach out via email (sanjaiarivu03@gmail.com) for inquiries and to fork the repository and create their own portfolio website in a similar style.
