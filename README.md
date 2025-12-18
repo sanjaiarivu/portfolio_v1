@@ -19,9 +19,6 @@ Here are the primary colors used in the website's design:
 - **Text Color:** ![#d3d3d5](https://via.placeholder.com/10/d3d3d5?text=+) #d3d3d5
 - **Box Color:** ![#0D0024](https://via.placeholder.com/10/0D0024?text=+) #0D0024
 
-## 🖼️ Site Image
-
-![Portfolio picture](src/assets/website.png)
 
 ## 🛠️ Technologies Used
 
